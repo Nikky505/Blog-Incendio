@@ -3,7 +3,7 @@
 body {
   font-family: system-ui, sans-serif;
   line-height: 1.6;
-  background: #808080;
+  background: #f4f4f9;
   color: #333;
 }
 
@@ -55,7 +55,7 @@ body {
 .footer {
   text-align: center;
   padding: 1.5rem;
-  background: #d3d3d3;
-  color: #333;
+  background: #e9eef6;
+  color: #444;
   margin-top: 2rem;
 }
