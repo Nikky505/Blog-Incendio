@@ -4,7 +4,7 @@ body {
   font-family: system-ui, sans-serif;
   line-height: 1.6;
   background: #808080;
-  color: #333;
+  color: #d3d3d3;
 }
 
 /* Cabeçalho */
@@ -56,6 +56,6 @@ body {
   text-align: center;
   padding: 1.5rem;
   background: #e9eef6;
-  color: #444;
+  color: #d3d3d3;
   margin-top: 2rem;
 }
